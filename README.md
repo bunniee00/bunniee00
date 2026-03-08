@@ -10,14 +10,11 @@
 
 </div>
 
----
 
 
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
 
 Script Kiddie
 
----
 
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
