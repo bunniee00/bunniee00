@@ -12,15 +12,10 @@
 
 ---
 
-## 🧑‍💻 About Me
 
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
 
-I'm a passionate creative developer and designer with over 5 years of experience building digital products that users love. I believe in the power of good design and clean code to solve real problems.
-
-When I'm not coding, you'll find me exploring new design trends, contributing to open-source projects, or sharing my knowledge through writing and speaking at conferences.
-
-I'm always excited to work on projects that challenge me to grow and learn something new.
+Script Kiddie
 
 ---
 
